@@ -1,0 +1,26 @@
+<timecycle_modifier_data version="1.000000">
+<modifier name="brightness" numMods="3" userFlags="0">
+        <light_natural_push>0.350 0.000</light_natural_push>
+        <light_artificial_int_down_col_r>0.019 1.000</light_artificial_int_down_col_r>
+        <light_artificial_int_down_col_g>0.035 1.000</light_artificial_int_down_col_g>
+        <light_artificial_int_down_col_b>0.250 1.000</light_artificial_int_down_col_b>
+        <light_artificial_int_down_intensity>0.010 1.000</light_artificial_int_down_intensity>
+        <light_artificial_int_up_intensity>0.010 1.000</light_artificial_int_up_intensity>
+        <light_amb_occ_mult>1.200 0.000</light_amb_occ_mult>
+        <light_amb_occ_mult_ped>0.700 0.000</light_amb_occ_mult_ped>
+        <light_amb_occ_mult_veh>2.100 0.000</light_amb_occ_mult_veh>
+        <light_amb_occ_mult_prop>2.000 0.000</light_amb_occ_mult_prop>
+        <light_amb_volumes_in_diffuse>1.000 0.000</light_amb_volumes_in_diffuse>
+        <light_vehicle_second_spec_override>1.000 0.000</light_vehicle_second_spec_override>
+        <light_vehicle_intenity_scale>0.400 0.000</light_vehicle_intenity_scale>
+        <postfx_grad_bottom_col_r>1.000 0.000</postfx_grad_bottom_col_r>
+        <reflection_lod_range_start>0.000 0.000</reflection_lod_range_start>
+        <reflection_lod_range_end>500.000 0.000</reflection_lod_range_end>
+        <reflection_slod_range_start>0.000 0.000</reflection_slod_range_start>
+        <reflection_slod_range_end>600.000 0.000</reflection_slod_range_end>
+        <reflection_interior_range>100.000 0.000</reflection_interior_range>
+        <reflection_tweak_emissive>0.050 0.000</reflection_tweak_emissive>
+        <far_clip>1400.000 1400.000</far_clip>
+        <portal_weight>1.000 0.000</portal_weight>
+    </modifier>
+</timecycle_modifier_data>

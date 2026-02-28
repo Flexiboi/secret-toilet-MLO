@@ -1,0 +1,29 @@
+<timecycle_modifier_data version="1.000000">
+<modifier name="deamon" numMods="25" userFlags="0">
+        <light_natural_amb_up_intensity>0.425 0.000</light_natural_amb_up_intensity>
+        <light_natural_amb_up_intensity_mult>0.300 0.000</light_natural_amb_up_intensity_mult>
+        <light_artificial_int_down_intensity>0.900 0.000</light_artificial_int_down_intensity>
+        <postfx_shift_cutoff>0.280 -0.200</postfx_shift_cutoff>
+        <postfx_tonemap_filmic_a>1.958 0.000</postfx_tonemap_filmic_a>
+        <postfx_tonemap_filmic_b>0.055 0.000</postfx_tonemap_filmic_b>
+        <postfx_tonemap_filmic_c>0.032 0.000</postfx_tonemap_filmic_c>
+        <postfx_tonemap_filmic_d>0.027 0.000</postfx_tonemap_filmic_d>
+        <postfx_tonemap_filmic_e>0.029 0.000</postfx_tonemap_filmic_e>
+        <postfx_tonemap_filmic_f>0.238 0.000</postfx_tonemap_filmic_f>
+        <postfx_tonemap_filmic_w>38.400 0.000</postfx_tonemap_filmic_w>
+        <postfx_tonemap_filmic_exposure_bright>1.700 1.000</postfx_tonemap_filmic_exposure_bright>
+        <postfx_tonemap_filmic_a_bright>0.189 0.000</postfx_tonemap_filmic_a_bright>
+        <postfx_tonemap_filmic_b_bright>0.190 0.000</postfx_tonemap_filmic_b_bright>
+        <postfx_tonemap_filmic_c_bright>0.032 0.000</postfx_tonemap_filmic_c_bright>
+        <postfx_tonemap_filmic_d_bright>0.220 0.000</postfx_tonemap_filmic_d_bright>
+        <postfx_tonemap_filmic_e_bright>-0.384 0.000</postfx_tonemap_filmic_e_bright>
+        <postfx_tonemap_filmic_f_bright>0.238 0.000</postfx_tonemap_filmic_f_bright>
+        <postfx_tonemap_filmic_w_bright>4.000 0.000</postfx_tonemap_filmic_w_bright>
+        <postfx_vignetting_intensity>0.660 0.000</postfx_vignetting_intensity>
+        <postfx_vignetting_radius>10.500 0.000</postfx_vignetting_radius>
+        <postfx_vignetting_contrast>-0.080 0.000</postfx_vignetting_contrast>
+        <postfx_vignetting_col_r>0.100 0.000</postfx_vignetting_col_r>
+        <postfx_vignetting_col_g>-0.084 0.000</postfx_vignetting_col_g>
+        <postfx_vignetting_col_b>-0.080 0.000</postfx_vignetting_col_b>
+    </modifier>
+</timecycle_modifier_data>
